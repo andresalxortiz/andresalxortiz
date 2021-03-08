@@ -1,5 +1,5 @@
 # Hi there 👋
-## My name is Andres Ortiz...
+## 😄 My name is Andres Ortiz...
 
 🔭 I’m currently working on personal projects to improve my coding skills!<br>
 🌱 I’m currently self-taught.<br>
