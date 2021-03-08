@@ -1,5 +1,13 @@
 ### Hi there 👋
+### My name is Andres Ortiz...
 
+🔭 I’m currently working on personal projects to improve my coding skills!<br>
+🌱 I’m currently self-taught.<br>
+👯 And I am looking to collaborate on new and exciting projects!
+
+## 📫 How to reach me:
+- email: andresaortiz98@gmail.com
+- linkedIn: https://www.linkedin.com/in/andres-ortiz-2a1530182/
 <!--
 **andresalxortiz/andresalxortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
