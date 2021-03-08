@@ -1,9 +1,8 @@
 # Hi there 👋
 ## 😄 My name is Andres Ortiz...
 
-🔭 I’m currently working on personal projects to improve my coding skills!<br>
-🌱 I’m currently self-taught.<br>
-👯 And I am looking to collaborate on new and exciting projects!
+- ⚡ Take a look at how far I have come.
+- 💬 Ask me about my projects and get to know me.
 
 ## 📫 How to reach me:
 - email: andresaortiz98@gmail.com
