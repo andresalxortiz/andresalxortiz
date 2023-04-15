@@ -1,8 +1,7 @@
-# Hi there 👋
-## 😄 My name is Andres Ortiz...
+# My name is Andres Ortiz...
 
 - ⚡ Take a look at how far I have come.
-- 💬 Ask me about my projects and get to know me.
+- 💬 Ask me about my projects.
 
 ## 📫 How to reach me:
 - email: andresortiz.ce@gmail.com
