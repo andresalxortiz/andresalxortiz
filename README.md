@@ -5,7 +5,7 @@
 
 ## 📫 How to reach me:
 - email: andresortiz.ce@gmail.com
-- linkedIn: https://www.linkedin.com/in/andres-ortiz-2a1530182/
+- linkedIn: https://www.linkedin.com/in/a-ortiz/
 <!--
 **andresalxortiz/andresalxortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
